@@ -1,7 +1,7 @@
 const API_KEY = import.meta.env.VITE_TMDB_API_KEY
 const BASE_URL = 'https://api.themoviedb.org/3'
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w500'
-const LANGUAGE = 'fr-FR'
+const LANGUAGE = 'en-US'
 
 async function request(path, params = {}) {
   if (!API_KEY) {
