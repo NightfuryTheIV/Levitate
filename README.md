@@ -1,5 +1,7 @@
 figma: https://www.figma.com/design/ywKfq2gk9geektzo5Tp7WU/Levitate?node-id=17-372&t=EIlTQgO1ezRL8v8I-1 
 
+prototype : https://www.figma.com/proto/ywKfq2gk9geektzo5Tp7WU/Levitate?node-id=0-1&t=EIlTQgO1ezRL8v8I-1
+
 # 🎬 Levitate
 
 A Vue.js application for searching movies, adding them to a personal library, managing favorites, and keeping track of what you've watched.
