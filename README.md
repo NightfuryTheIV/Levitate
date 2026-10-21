@@ -1,8 +1,16 @@
+figma: https://www.figma.com/design/ywKfq2gk9geektzo5Tp7WU/Levitate?node-id=17-372&t=EIlTQgO1ezRL8v8I-1 
+
 # 🎬 Levitate
 
 A Vue.js application for searching movies, adding them to a personal library, managing favorites, and keeping track of what you've watched.
 ## Disclaimer
 We have used AI to partially format the CSS, the README.md and the LocalStorage aspect of the project.
+For the CSS, we have asked it to overhaul the visual aspect to match the wireframes while not changing the features
+For the README we wanted a readable README.md that would help with navigating the project so we asked it to scan the project and generate a README
+For the LocalStorage we weren't very familiar with that sort of thing so we asked it to implement it in our project.
+
+## Persona
+Jean Peuplu, 22 years old and social studies student. He watches 2 to 3 movies per week on streaming services and in theaters alike. He doesn't want to create an account just to keep track of his watching experience (like Letterboxd for example).
 
 ## Technologies
 
